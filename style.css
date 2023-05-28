@@ -151,18 +151,6 @@ section{
     animation-delay: 2s;
 }
 
-.home-content .text-animate h3::before  {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 0;
-    height: 100%;
-    border-right: 2px solid var(--main-color);
-    z-index: -1;
-    animation: homeCursorText 6s linear infinite;
-    animation-delay: 2s;
-}
 
 .home-content p{
     position: relative;
@@ -199,39 +187,7 @@ section{
     box-shadow: none;
 }
 
-.socials {
-    position: absolute;
-    bottom: 4rem;
-    width: 170px;
-    display: flex;
-    justify-content: space-between;
-    
 
-}
-
-.socials a {
-    position: relative;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    width: 40px;
-    height: 40px;
-    background: transparent;
-    border: .2rem solid var(--main-color);
-    border-radius: 50%;
-    font-size: 20px;
-    color: var(--main-color);
-    text-decoration: none;
-    z-index: 1;
-    overflow: hidden;
-    transition: .5s;
-}
-
-.socials a:hover {
-    color: var(--bg-color)
-    
-     
-}
 
 .about {
     display: flex;
@@ -566,19 +522,19 @@ section{
     display: flex;
     justify-content: center;
   
-    gap: 10px; 
+    gap: 0px; 
     
 }
 
 .dm .icon {
     font-size: 15px; 
-   
-    
+ 
 }
 
 .dm .icon i {
     font-size: 29px;
       color: #00abf0;
+    
       
     /* Adjust the icon size as desired */
 }
