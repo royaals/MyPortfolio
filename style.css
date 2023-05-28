@@ -522,17 +522,17 @@ section{
     display: flex;
     justify-content: center;
   
-    gap: 0px; 
+    gap: 30px; 
     
 }
 
 .dm .icon {
-    font-size: 15px; 
+    font-size: 12px; 
  
 }
 
 .dm .icon i {
-    font-size: 29px;
+    font-size: 24px;
       color: #00abf0;
     
       
