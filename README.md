@@ -38,19 +38,6 @@ The project's source code is organized into different sections, each representin
 5.	Contact Section:
 
 
-
-
-## Acknowledgements
-
- - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
- - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
- - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
- - [Boxicons](https://boxicons.com/)
-
-  - [FormSubmit](https://formsubmit.co/)
-
- 
 ## Features
 •	Responsive Design: The portfolio website is designed to be responsive, ensuring a seamless experience across different devices and screen sizes.
 
@@ -63,6 +50,17 @@ The project's source code is organized into different sections, each representin
 •	Social Media Links: The contact section includes links to the developer's GitHub, LinkedIn, and Instagram profiles for easy access to social media presence.
 
 •	Form Submission: The contact form is integrated with FormSubmit, enabling visitors to send messages directly to the developer's email address.
+
+## Acknowledgements
+
+ - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+ - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+ - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+ - [Boxicons](https://boxicons.com/)
+
+  - [FormSubmit](https://formsubmit.co/)
+
 
 
 
